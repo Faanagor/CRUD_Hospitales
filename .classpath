@@ -27,5 +27,14 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.sun.xml.bind"/>
+			<attribute name="maven.artifactId" value="jaxb-impl"/>
+			<attribute name="maven.version" value="2.2.3-1"/>
+			<attribute name="maven.scope" value="runtime"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
